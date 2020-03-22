@@ -11,14 +11,14 @@ p {
     text-align: left;
 }
 #Employment {
-    font-size: 42px;
+    font-size: 36px;
 }
 li {
     font-size: 18px;
     text-align: left;
 }
 h1 {
-    font-size: 64px;
+    font-size: 42px;
     margin-bottom: -25px;
 }
 h2 {
@@ -35,5 +35,5 @@ h4 {
     margin-bottom: -10px;
 }
 #Education {
-    font-size: 42px;
+    font-size: 36px;
 }
