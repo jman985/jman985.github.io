@@ -18,7 +18,7 @@ li {
     text-align: left;
 }
 h1 {
-    font-size: 44px;
+    font-size: 50px;
     margin-bottom: -25px;
 }
 h2 {
@@ -39,12 +39,4 @@ h4 {
     padding: 0 0 32px 0;
     font-style: italic;
     font-size: 20px;
-}
-#contact-info {
-    margin: 0 0 16px 0;
-    padding: 0 0 16px 0;
-    font-size: 42px;
-    font-weight: bold;
-    letter-spacing: -2px;
-    border-bottom: 1px solid black;
 }
